@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<!--
+Template Name: Yammoe
+Author: <a href="https://www.os-templates.com/">OS Templates</a>
+Author URI: https://www.os-templates.com/
+Copyright: OS-Templates.com
+Licence: Free to use under our free template licence terms
+Licence URI: https://www.os-templates.com/template-terms
+-->
+<html lang="">
+<!-- To declare your language - read more here: https://www.w3.org/International/questions/qa-html-language-declarations -->
+<head>
+<title>STIE INDONESIA PONTIANAK</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+</head>
+<body id="top">
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- Top Background Image Wrapper -->
+<div class="bgded overlay" style="background-image:url('images/demo/backgrounds/stie\ drone\'.jpg');"> 
+  <!-- ################################################################################################ -->
+  <div class="wrapper row0">
+    <div id="topbar" class="hoc clear"> 
+      <!-- ################################################################################################ -->
+      <p class="fl_left nospace"><i class="fas fa-phone"></i>(0561) 734762</p>
+      <p class="fl_right nospace"><a class="btn" href="#"></a></p>
+      <!-- ################################################################################################ -->
+    </div>
+  </div>
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+  <div class="wrapper row1">
+    <header id="header" class="hoc clear">
+      <div id="logo" class="fl_left"> 
+        <!-- ################################################################################################ -->
+        <h1><a href="index.html">STIEI</a></h1>
+        <!-- ################################################################################################ -->
+      </div>
+      <nav id="mainav" class="fl_right"> 
+        <!-- ################################################################################################ -->
+        <!-- ################################################################################################ -->
+      </nav>
+    </header>
+  </div>
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+  <div id="pageintro" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <article>
+      <h3 class="heading">SELAMAT DATANG</h3>
+      <p>SEKOLAH TINGGI ILMU EKONOMI 'INDONESIA' PONTIANAK</p>
+      <p>Jl. Imam Bonjol No.369-370, Benua Melayu Laut, Kec. Pontianak Sel., Kota Pontianak, Kalimantan Barat 78243</p>
+      <footer>
+      </footer>
+    </article>
+    <!-- ################################################################################################ -->
+  </div>
+  <!-- ################################################################################################ -->
+</div>
+<!-- End Top Background Image Wrapper -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row3">
+  <main class="hoc container clear"> 
+    <!-- main body -->
+    <!-- ################################################################################################ -->
+    <section id="services">
+      <h6 class="heading font-x3">TENTANG KAMI</h6>
+      <p class="btmspace-80 bold">STIE ‘Indonesia’ Pontianak adalah perguruan tinggi swasta yang berorientasi pada mutu. Kami selalu berusaha menghasilkan lulusan yang memiliki keunggulan dan daya saing dan siap berkembang dalam masyarakat global.</p>
+      <ul class="nospace group">
+        <li class="one_quarter">
+          <article><i class=></i>
+            <h6 class="heading">Visi Misi</h6>
+            <p>Visi  :
+              <p>
+              “Menjadikan STIE Indonesia Pontianak sebagai Sekolah Tinggi yang menghasilkan sumber daya manusia di bidang manajemen dan akuntansi yang unggul, mandiri, dan berbudaya multikultural di Indonesia.”
+              <p>
+              <p>
+                <p>
+                  <p>
+              Misi :
+              
+              <p>Menyelenggarakan proses pembelajaran yang berkualitas.</p>
+              <p>Meningkatkan produktivitas tenaga pendidik di bidang Tridharma Perguruan Tinggi.</p>
+              <p> Meningkatkan kualifikasi dan kompetensi tenaga pendidik dan tenaga kependidikan.</p>
+              <p> Mengembangkan kemitraan dengan berbagai pihak untuk penerapan dan pengembangan Ilmu Akuntansi dan Manajemen.</p>
+            
+          </article>
+        </li>
+        <li class="one_quarter">
+          <article><i class=></i>
+            <h6 class="heading">Sejarah</h6>
+            <p>Yayasan atau badan hukum penyelenggara Sekolah Tinggi llmu Ekonomi ‘Indonesia’ Pontianak merupakan Yayasan Pendidikan Indograha Manajemen yang didirikan pada tanggal 12 Maret 1992 berdasarkan Akte Notaris Sri Rohani Wahyudi, S.H No. 34 dan telah terdaftar di Pengadilan Negeri Pontianak </p>
+              <p>No. 08/Y.Y.PENDAF/1992/PN.PTK serta telah mendapat pengesahan Menteri Hukum dan HAM SK No. AHU 2276.AH.01.04 tahun 2010. Berdasarkan Surat Keputusan No. 073/D/O/1998, Menteri Pendidikan dan Kebudayaan R.I.cq. Direktorat Jenderal Pendidikan Tinggi cq. Kopertis XI Depdikbud R.I.</p> 
+              <p> Maka didirikan Sekolah Tinggi llmu Ekonomi ‘Indonesia’ Pontianak (STIE ‘Indonesia’ Pontianak) yang menyelenggarakan Pendidikan di bidang ilmu Manajemen (Program Sarjana/S1) dan Akuntansi (Program Diploma Tiga/DIII).</p>
+        
+          </article>
+        </li>
+        <li class="one_quarter">
+          <article><i class=></i>
+            <h6 class="heading">Program Studi</h6>
+            <p>1. Program Sarjana, Program Studi Manajemen (Terakreditasi B)</p>
+            <p> 2. Program Diploma Tiga, Program Studi Akuntansi (Terakreditasi B)</p>
+            
+          </article>
+        </li>
+        <li class="one_quarter">
+          <article><i class=></i>
+            <h6 class="heading">Tujuan</h6>
+            <p>1. Menghasilkan Sarjana Manajemen yang berjiwa-wirausaha dan mampu menerapkan prinsip-prinsip manajemen untuk meningkatkan kinerja organisasi baik organisasi bisnis maupun nonbisnis.</p>
+            <p>2. Menghasilkan publikasi ilmiah melalui penelitian yang berkualitas dan inovatif untuk menunjang pembangunan nasional.</p>
+            <p>3. Membangun kerjasama yang berkelanjutan dengan masyarakat, sektor swasta, pemerintah dan lembaga-lembaga internasional dalam pengembangan iptek.</p>
+            
+          </article>
+        </li>
+      </ul>
+    </section>
+    <!-- ################################################################################################ -->
+    <!-- / main body -->
+    <div class="clear"></div>
+  </main>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+      <!-- ################################################################################################ -->
+    </div>
+  </section>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row2">
+  <section class="hoc container clear"> 
+    <!-- ################################################################################################ -->
+    <div class="sectiontitle">
+      <p class="nospace font-xs"></p>
+      <h6 class="heading font-x2">FASILITAS</h6>
+    </div>
+    <ul class="nospace group team sd-third">
+      <li class="one_quarter first">
+        <figure><a class="imgover" href="#"><img src="images/demo/DJI_0853.jpg" alt=""></a>
+          <figcaption><strong>Ruang Sidang Tertutup</strong> <em></em></figcaption>
+        </figure>
+      </li>
+      <li class="one_quarter">
+        <figure><a class="imgover" href="#"><img src="images/demo/DJI_0871.jpg" alt=""></a>
+          <figcaption><strong>Perpustakaan</strong> <em></em></figcaption>
+        </figure>
+      </li>
+      <li class="one_quarter">
+        <figure><a class="imgover" href="#"><img src="images/demo/DJI_0907.jpg" alt=""></a>
+          <figcaption><strong>Lab Komputer</strong> <em></em></figcaption>
+        </figure>
+      </li>
+      <li class="one_quarter">
+        <figure><a class="imgover" href="#"><img src="images/demo/Screen Shot 2021-04-08 at 18.56.16.png" alt=""></a>
+          <figcaption><strong>Ruang Kelas Full AC</strong> <em></em></figcaption>
+        </figure>
+      </li>
+    </ul>
+    <!-- ################################################################################################ -->
+  </section>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="bgded overlay" style="background-image:url('images/demo/DJI_0717.jpg');">
+  <section id="testimonials" class="hoc container clear"> 
+    <!-- ################################################################################################ -->
+    <div class="sectiontitle">
+      <p class="nospace font-xs"></p>
+      <h6 class="heading font-x2">Kegiatan Belajar Mengajar</h6>
+    </div>
+    <article class="one_half first">
+      <figure class="clear"><img src="images/demo/IMG_5677.JPG" alt="">
+        <figcaption>
+          <h6 class="heading">Kegiatan Belajar Mengajar Mahasiswa</h6>
+          <em></em></figcaption>
+      </figure>
+      <blockquote>Berikut adalah kegiatan belajar mengajar mahasiswa pada saat praktikum di lab komputer.</blockquote>
+    </article>
+    <article class="one_half">
+      <figure class="clear"><img src="images/demo/IMG_7025.JPG" alt="">
+        <figcaption>
+          <h6 class="heading">Kegiatan Belajar Mengajar Mahasiswa</h6>
+          <em></em></figcaption>
+      </figure>
+      <blockquote>Berikut adalah kegiatan belajar mengajar mahasiswa pada saat di ruang perpustakaan.</blockquote>
+    </article>
+    <!-- ################################################################################################ -->
+  </section>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row2">
+  <section class="hoc container clear"> 
+    <!-- ################################################################################################ -->
+    <!-- ################################################################################################ -->
+  </section>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- Bottom Background Image Wrapper -->
+<div class="bgded overlay" style="background-image:url('images/demo/backgrounds/IMG_7039.JPG');"> 
+  <!-- ################################################################################################ -->
+  <div class="wrapper row4">
+    <footer id="footer" class="hoc clear"> 
+      <!-- ################################################################################################ -->
+      <div class="group btmspace-50">
+        <div class="one_quarter first">
+          <h6 class="heading">
+          <ul class="faico clear">
+            <li><a class="faicon-facebook" href="#"><i class="fab fa-facebook"></i></a></li>
+            <li><a class="faicon-google-plus" href="#"><i class="fab fa-google-plus-g"></i></a></li>
+            <li><a class="faicon-linkedin" href="#"><i class="fab fa-linkedin"></i></a></li>
+            <li><a class="faicon-twitter" href="#"><i class="fab fa-twitter"></i></a></li>
+            <li><a class="faicon-vk" href="#"><i class="fab fa-vk"></i></a></li>
+          </ul>
+        </div>
+        </div>
+        <div class="one_quarter">
+          <h6 class="heading">INFO PENDAFTARAN DAN FORMULIR PENDAFTARAN</h6>
+          <p class="nospace btmspace-15">Info pendaftaran dan formulir pendaftaran dapat diterima melalui email. Tulis nama calon mahasiswa dan alamat email pada kolom dibawah ini.</p>
+          <form action="#" method="post">
+            <fieldset>
+              <legend>Newsletter:</legend>
+              <input class="btmspace-15" type="text" value="" placeholder="Name">
+              <input class="btmspace-15" type="text" value="" placeholder="Email">
+              <button class="btn" type="submit" value="submit">Submit</button>
+            </fieldset>
+          </form>
+        </div>
+        <div class="one_quarter">
+          <h6 class="heading"></h6>
+          <ul class="nospace clear latestimg">
+            <li><a class="imgover" href="#"><img src="images/demo/9.jpeg" alt=""></a></li>
+            <li><a class="imgover" href="#"><img src="images/demo/8.jpeg" alt=""></a></li>
+            <li><a class="imgover" href="#"><img src="images/demo/7.jpeg" alt=""></a></li>
+            <li><a class="imgover" href="#"><img src="images/demo/6.jpeg" alt=""></a></li>
+            <li><a class="imgover" href="#"><img src="images/demo/5.jpeg" alt=""></a></li>
+            <li><a class="imgover" href="#"><img src="images/demo/4.jpeg" alt=""></a></li>
+            <li><a class="imgover" href="#"><img src="images/demo/3.jpeg" alt=""></a></li>
+            <li><a class="imgover" href="#"><img src="images/demo/2.jpeg" alt=""></a></li>
+            <li><a class="imgover" href="#"><img src="images/demo/1.jpeg" alt=""></a></li>
+          </ul>
+        </div>
+      </div>
+      <!-- ################################################################################################ -->
+      <hr class="btmspace-50">
+      <!-- ################################################################################################ -->
+      <nav>
+      </nav>
+      <!-- ################################################################################################ -->
+    </footer>
+  </div>
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+  <div class="wrapper row5">
+    <div id="copyright" class="hoc clear"> 
+      <!-- ################################################################################################ -->
+      <!-- ################################################################################################ -->
+    </div>
+  </div>
+  <!-- ################################################################################################ -->
+</div>
+<!-- End Bottom Background Image Wrapper -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<a id="backtotop" href="#top"><i class="fas fa-chevron-up"></i></a>
+<!-- JAVASCRIPTS -->
+<script src="layout/scripts/jquery.min.js"></script>
+<script src="layout/scripts/jquery.backtotop.js"></script>
+<script src="layout/scripts/jquery.mobilemenu.js"></script>
+</body>
+</html>
